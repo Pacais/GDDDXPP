@@ -39,15 +39,12 @@
    dependiendo de tu tipo de competición favorita: "Drag Races", "Time attack", "Endurance" y "Grand Prix". 
   
   
-   1.  Game Concept
-       1. High Concept
-       2. Key Features
-           1. Single Player
-           2. Multiplayer
-           3. Editor
-       3. Design Questions
-           1. Game's Point and Philosophy
-           2. What is different?
+   3. Diseño del juego
+      - El punto del juego es buscar un equilibrio entre que el jugador tenga que ir progresando para obtener logros y a la vez aprenda como realizar reglajes de coches de competición y una idea general de mecánica, a su vez, habrá autoajustes que para los jugadores más "casual" estarán disponibles.
+
+      - La principal idea es que sea un juego distinto en el cual el espíritu es que vas a competir con algo hecho a tu medida y a tu gusto con tu esfuerzo, que te de esa sensación, "He ganado el campeonato de la temporada con el coche que he construído".
+
+   
    2.  Genre
    3.  Target Audience
    4.  Game Experiencing
