@@ -45,7 +45,9 @@
       - La principal idea es que sea un juego distinto en el cual el espíritu es que vas a competir con algo hecho a tu medida y a tu gusto con tu esfuerzo, que te de esa sensación, "He ganado el campeonato de la temporada con el coche que he construído".
 
    
-   2.  Genre
+   4. Género
+      - Simulación
+      - Survival
    3.  Target Audience
    4.  Game Experiencing
         1. Game Flow
