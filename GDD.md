@@ -19,7 +19,7 @@
       
 ## Visión general del juego
 
-   ### Concepto
+   1. Concepto
    - La idea principal es un survival con un crecimiento del personaje, el cual empieza siendo un niño
    aprendiendo a conducir con un Kart viejo que se encuentran él y su padre abandonado, aprenden juntos de mecánica
    hasta lograr participar en el campeonato regional.
@@ -30,7 +30,15 @@
    poco a poco según se avance en la historia con una serie de misiones,
    en modo single player al principio, para enseñarte de donde vienes, 
    aprenderás fundamentos de mecánica básica para poner a punto el kart e ir subiendo
-   de categorías, 
+   de categorías
+   2. Características clave
+   - Juego SinglePlayer hasta que tengas los conocimientos suficientes para entrar al mundo abierto
+   - El multijugador consistirá en un mundo abierto en el cual podrás competir contra otros jugadores 
+   con tu vehículo.
+   - Al avanzar en la historia irás modificando tu vehículo, comprando nuevos y mejorandolos
+   dependiendo de tu tipo de competición favorita: "Drag Races", "Time attack", "Endurance" y "Grand Prix". 
+  
+  
    1.  Game Concept
        1. High Concept
        2. Key Features
