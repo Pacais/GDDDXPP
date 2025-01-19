@@ -5,13 +5,32 @@
 
 #### Pablo Castro Iglesias
 
+## Historia de diseño
+   1. Primera Versión
+       - Survival Mundo abierto
+       - Construción de tus vehículos
+       - Participación en Campeonatos
+   2. Segunda Version
+      - Seguimos en la misma línea que la anterior
+      - Añadimos trasfondo personal, padre frustrado
+   
+   3. Versión final
+      - Familia sin demasiados recursos que pelea por el sueño de un padre e un hijo
+      
+## Visión general del juego
 
-
-2. Design History
-   1.  Version 1.0
-   2.  Version 1.1
-   3.  Version 2.0...
-3. Overview of the Game
+   ### Concepto
+   - La idea principal es un survival con un crecimiento del personaje, el cual empieza siendo un niño
+   aprendiendo a conducir con un Kart viejo que se encuentran él y su padre abandonado, aprenden juntos de mecánica
+   hasta lograr participar en el campeonato regional.
+   - La historia de nuestro juego comienza con el chico con 16 años  
+   el padre fallece y se ve obigado a trabajar si quiere seguir teniendo 
+   dinero para competir.
+   - La clave del juego es cumplir ese sueño que tenías con tu padre 
+   poco a poco según se avance en la historia con una serie de misiones,
+   en modo single player al principio, para enseñarte de donde vienes, 
+   aprenderás fundamentos de mecánica básica para poner a punto el kart e ir subiendo
+   de categorías, 
    1.  Game Concept
        1. High Concept
        2. Key Features
