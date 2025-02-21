@@ -96,6 +96,7 @@
    4. Economy
       1. La economía se basa en los premios de las carreras y las recompensas de las misiones secundarias, puedes vender tus coches incluso para ganar dinero o reparar alguno de NPC para ganar un dinero extra.
       2. Aparte de todo esto, en las carreras habrá la posibilidad de alquilar coche, con lo cual, ganarás un 50% menos pero así no dañarás  tu vehículo y podrás competir donde quieras siempre y cuando cumplas las normas.
+   
    5. Camera and Screen Flow
       1. 2 Modos de cámara
          1. Cámara de Persona, es decir cuando estás fuera del coche, primera persona  siempre, podrás jugar con el FOV, es decir tu ángulo de visión pero nada más
@@ -119,10 +120,13 @@
        2. El juego sigue la historia de un joven piloto que crece en un entorno humilde, con el sueño de convertirse en el mejor piloto de la historia en el mayor número de categorías posibles. Su padre, un apasionado del automovilismo, nunca pudo alcanzar su meta y deposita en su hijo la esperanza de lograrlo juntos.  
        La narrativa gira en torno a la superación, la pasión por las carreras y el sacrificio personal. A medida que el protagonista avanza, deberá tomar decisiones difíciles, gestionar recursos y lidiar con la presión del mundo competitivo.
        3. Game progression
-          1. Lcencias y categorías: Comenzará desde lo más bajo, con un kart encontrado en un desguace, y deberá obtener licencias para acceder a categorías superiores.
+          1. Licencias y categorías: Comenzará desde lo más bajo, con un kart encontrado en un desguace, y deberá obtener licencias para acceder a categorías superiores.
+             1. El sistema de obtención de licencia se basa en tu reputación como piloto, además como contrapartida dependiendo de la licencia que tengas, podrás optar a distintas carreras, es decir, has de tener un mínimo de licencia para participar, y además mientras no llegues al primer escalón de la licencia no podrás alquilar coches.
+             2. Si vas perdiendo reputación en la licencia, corres el riesgo de perderla e incluso bajar a un nivel inferior.
           2. Sistema de economía: Se podrá conseguir dinero a través de carreras,  trabajos secundarios y eventos en el mapa
-          3. Mejoras y personalización: Cada coche podrá mejorarse con piezas, reglajes y personalización estética.
-          4. Reputación y rivalidad: Habrá un sistema de reconocimiento dentro del mundo del automovilismo, afectando el acceso a equipos y competiciones.
+          3. Sistema de alquiler de coches: Solo se podrán alquilar coches si tienes el nivel mínimo de licencia el cual en las primeras carreras será superior a lo que la carrera te exige aunque en los niveles altos será el mismo que el de acceso la carrera. Además solo podrás correr de forma "fixed" si alquilas el coche, no se te permitirá modificarlo.
+          4. Mejoras y personalización: Cada coche podrá mejorarse con piezas, reglajes y personalización estética.
+          5. Reputación y rivalidad: Habrá un sistema de reconocimiento dentro del mundo del automovilismo, afectando el acceso a equipos y competiciones.
        4. Cutscenes
           1. Actors
             - Protagonista : Joven piloto en crecimiento
