@@ -108,8 +108,10 @@
    2.  Replaying and Saving 
        1.  Podrás ver la repetición de tus carreras para analizar tus fallos con telemetría, te mostrarán la tuya y la ideal.
        2.  Podrás repetir la carrera las veces que quieras, pero una vez ganes la primera vez la siguientes el premio será menor.
-       3.  
+       3.  La partida se guardará de forma automática cada vez que finalices una carrera, llegues a tu casa o a uno de los puntos de guardado, además manualmente podrás abrir el menú del juego y guardar.
    3.  Cheats and Easter Eggs
+       1.  Una serie de cheats "Válidos" serán el Noclip, sólo en tu taller, para evitar que se te queden glicheadas piezas, es decir, si estás montando un amortiguador y atraviesa la carrocería pero no puedes recuperarlo, activando el noclip podrás meterte dentro de la carrocería y guardarlo.
+       2.  Habrá por el mapa una serie de easter eggs como por ejemplo piezas de tunning que aportarán un look diferente  a tu coche, estarán en sitios aleatorios o te los dará un NPC aleatorio, incluso puede ser que tengas que ganar a alguna especie de minijuego a algún NPC para conseguir la pieza.
 4. Story, Setting and Characters
    1.  Story and Narrative
        1. Backstory and narrative
