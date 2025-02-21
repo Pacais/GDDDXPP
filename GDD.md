@@ -1,6 +1,6 @@
 # Born to ride
 
-   ##  Como crecer en el mundo del automobilismo   
+   ##  Como crecer en el mundo del automovilismo   
    ###  Meigos Productions
 
 #### Pablo Castro Iglesias
@@ -54,11 +54,25 @@
       - 
    4.  Game Experiencing
         1. Game Flow
+           1. Inicio del juego
+              1. Breve Cinemática sobre como vas a construir tu historia, eres un chaval joven e inconsciente que ha decidido enfrentarse al mundo
+              2. Progresión del jugador: No vas a tener una progresión demasiado significativa, simplemente irás mejoranto tu como jugador al enfrentarte a los diferentes retos.
+              3. Mecánicas Principales: Conducción y movimiento de persona.
+              4. Loop del juego: Construir, competir, mejorar, comprar, reparar, competir
+              5. Rejugabilidad: El juego es infinito, tu según vas avanzando en la historia con tus coches, en cualquier momento puedes montarte en uno antiguo y volver a correr las carreras de clase baja
         2. Look and Feel
+           1. Juego de Simulación, por lo tanto los gráficos serán lo más realistas posibles
+           2. Ambientación, Climatológica con los distintos cambios: Calor, Lluvia, nieve...
+           3. Feedback máximo si se usa un simulador, a su vez es recomendable el uso de teclado y ratón cuando no se está en un coche.
 1. Gameplay
    1.  Gameplay
        1. Game Progression
+          1. Empiezas desde 0, con el coche de tu padre, el cual está listo para competir aunque tiene muy pocas mejoras, según vas ganando dinero vas adquiriendo la capacidad de comprar piezas que tu mismo has de montar, a su vez, empiezas con herramientas básicas, lo cual te limitará un montón ya que no podrás realizar todas las puestas a punto tu, sino que tendrás que ir a un taller especializado( Reglajes, mapas de motor.....). En cuanto tienes algo de dinero ahorrado podrás optar a comprar un coche mejor, el cual te permitirá desbloquear nuevas competiciones de una clase superior, a su vez, has de cuidar tu coche ya que si no realizas los mantenimientos cuando toque ( En las primeras fases tendrás una alerta luego tendrás un manual de mantenimiento de cada vehículo), corres el riesgo de romperlo, lo que a su vez reducirá tu progresión ya que tendrás que invertir dinero en nuevas piezas.
+          2. A su vez, las carreras online dañaran tu coche pero para evitar que otros jugadores te lo destrocen a propósito, te serán entregadas piezas para sustituir totalmente gratis al finalizar la carrera si los daños han sido por colisión contra otro jugador. 
        2. Objectives
+          1. El objetivo principal es llegar a ser piloto profesional en la cumbre del deporte, es decir F1, cuando llegues a ese nivel ya no te comprarás tus coches sino que tendrás que demostrar tu talento ante los equipos (Será realmente difícil) o bien  pagar por tu asiento. 
+          2. Objetivo secundario, llegar a la cima de la tabla de los tiempos online en las distints categorias.
+          3. Convertirte en todo un maestro en la arte de la optimización de vehículos de competición
        3. Mission Structure
        4. Challenge & Puzzle Structure
        5. Play Flow
