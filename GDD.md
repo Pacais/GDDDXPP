@@ -32,7 +32,7 @@
    aprenderás fundamentos de mecánica básica para poner a punto el kart e ir subiendo
    de categorías
    2. Características clave
-   - Juego SinglePlayer hasta que tengas los conocimientos suficientes para entrar al mundo abierto
+   - El juego será en modo SinglePlayer hasta que el jugador tenga los conocimientos suficientes para entrar en el mundo abierto.
    - El multijugador consistirá en un mundo abierto en el cual podrás competir contra otros jugadores 
    con tu vehículo.
    - Al avanzar en la historia irás modificando tu vehículo, comprando nuevos y mejorandolos
