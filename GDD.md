@@ -97,9 +97,18 @@
       1. La economía se basa en los premios de las carreras y las recompensas de las misiones secundarias, puedes vender tus coches incluso para ganar dinero o reparar alguno de NPC para ganar un dinero extra.
       2. Aparte de todo esto, en las carreras habrá la posibilidad de alquilar coche, con lo cual, ganarás un 50% menos pero así no dañarás  tu vehículo y podrás competir donde quieras siempre y cuando cumplas las normas.
    5. Camera and Screen Flow
+      1. 2 Modos de cámara
+         1. Cámara de Persona, es decir cuando estás fuera del coche, primera persona  siempre, podrás jugar con el FOV, es decir tu ángulo de visión pero nada más
+         2. Cámara de conducción, se presentarán distintas opciones para los gustos de cada persona, pero todas serán en primera persona( Cámara encima del capó, cockpit, simulaicón de casco, cámara en el morro del coche)
 3. Game Options
    1.  General Options
+       1.  Dificultad basada en los reglajes del coche o no.
+       2.  Dificultad de la IA adaptable a tu nivel de piloto
+       3.  Dificultad del Online en base a tu rendimiento, tendrás una valoración para emparejarte con gente de tu nivel.
    2.  Replaying and Saving 
+       1.  Podrás ver la repetición de tus carreras para analizar tus fallos con telemetría, te mostrarán la tuya y la ideal.
+       2.  Podrás repetir la carrera las veces que quieras, pero una vez ganes la primera vez la siguientes el premio será menor.
+       3.  
    3.  Cheats and Easter Eggs
 4. Story, Setting and Characters
    1.  Story and Narrative
