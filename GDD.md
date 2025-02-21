@@ -112,12 +112,23 @@
    3.  Cheats and Easter Eggs
        1.  Una serie de cheats "Válidos" serán el Noclip, sólo en tu taller, para evitar que se te queden glicheadas piezas, es decir, si estás montando un amortiguador y atraviesa la carrocería pero no puedes recuperarlo, activando el noclip podrás meterte dentro de la carrocería y guardarlo.
        2.  Habrá por el mapa una serie de easter eggs como por ejemplo piezas de tunning que aportarán un look diferente  a tu coche, estarán en sitios aleatorios o te los dará un NPC aleatorio, incluso puede ser que tengas que ganar a alguna especie de minijuego a algún NPC para conseguir la pieza.
+       3.  Si ganas el GP de Mónaco de F1, las 24h de LeMans y la Indi 500 por ejemplo se te desbloqueará el logro "Triple Corona" y así con más competiciones míticas de la historia.
 4. Story, Setting and Characters
    1.  Story and Narrative
        1. Backstory and narrative
-       2. Game progression
-       3. Cutscenes
+       2. El juego sigue la historia de un joven piloto que crece en un entorno humilde, con el sueño de convertirse en el mejor piloto de la historia en el mayor número de categorías posibles. Su padre, un apasionado del automovilismo, nunca pudo alcanzar su meta y deposita en su hijo la esperanza de lograrlo juntos.  
+       La narrativa gira en torno a la superación, la pasión por las carreras y el sacrificio personal. A medida que el protagonista avanza, deberá tomar decisiones difíciles, gestionar recursos y lidiar con la presión del mundo competitivo.
+       3. Game progression
+          1. Lcencias y categorías: Comenzará desde lo más bajo, con un kart encontrado en un desguace, y deberá obtener licencias para acceder a categorías superiores.
+          2. Sistema de economía: Se podrá conseguir dinero a través de carreras,  trabajos secundarios y eventos en el mapa
+          3. Mejoras y personalización: Cada coche podrá mejorarse con piezas, reglajes y personalización estética.
+          4. Reputación y rivalidad: Habrá un sistema de reconocimiento dentro del mundo del automovilismo, afectando el acceso a equipos y competiciones.
+       4. Cutscenes
           1. Actors
+            - Protagonista : Joven piloto en crecimiento
+            - Padre: Mentor y figura inspiradora
+            - Rivales
+            - NPC que ayudaran en la progresión.
           2. Script
    2.  Game World
        1. General look and feel of world
