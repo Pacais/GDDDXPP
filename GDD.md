@@ -35,14 +35,14 @@
    - El juego será en modo SinglePlayer hasta que el jugador tenga los conocimientos suficientes para entrar en el mundo abierto.
    - El multijugador consistirá en un mundo abierto en el cual podrás competir contra otros jugadores 
    con tu vehículo.
-   - Al avanzar en la historia irás modificando tu vehículo, comprando nuevos y mejorandolos
+   - Al avanzar en la historia irás modificando tu vehículo, comprando nuevos y mejorándolos."
    dependiendo de tu tipo de competición favorita: "Drag Races", "Time attack", "Endurance" y "Grand Prix". 
   
   
    3. Diseño del juego
-      - El punto del juego es buscar un equilibrio entre que el jugador tenga que ir progresando para obtener logros y a la vez aprenda como realizar reglajes de coches de competición y una idea general de mecánica, a su vez, habrá autoajustes que para los jugadores más "casual" estarán disponibles.
+      - El objetivo del juego es encontrar un equilibrio entre la progresión del jugador para obtener logros y su aprendizaje en la realización de reglajes de coches de competición, además de adquirir nociones generales de mecánica., a su vez, habrá autoajustes que para los jugadores más "casual" estarán disponibles.
 
-      - La principal idea es que sea un juego distinto en el cual el espíritu es que vas a competir con algo hecho a tu medida y a tu gusto con tu esfuerzo, que te de esa sensación, "He ganado el campeonato de la temporada con el coche que he construído".
+      - La principal idea es que sea un juego distinto en el cual el espíritu es que vas a competir con algo hecho a tu medida y a tu gusto, con tu esfuerzo, que te dé esa sensación.
 
    
    4. Género
@@ -67,11 +67,11 @@
 1. Gameplay
    1.  Gameplay
        1. Game Progression
-          1. Empiezas desde 0, con el coche de tu padre, el cual está listo para competir aunque tiene muy pocas mejoras, según vas ganando dinero vas adquiriendo la capacidad de comprar piezas que tu mismo has de montar, a su vez, empiezas con herramientas básicas, lo cual te limitará un montón ya que no podrás realizar todas las puestas a punto tu, sino que tendrás que ir a un taller especializado( Reglajes, mapas de motor.....). En cuanto tienes algo de dinero ahorrado podrás optar a comprar un coche mejor, el cual te permitirá desbloquear nuevas competiciones de una clase superior, a su vez, has de cuidar tu coche ya que si no realizas los mantenimientos cuando toque ( En las primeras fases tendrás una alerta luego tendrás un manual de mantenimiento de cada vehículo), corres el riesgo de romperlo, lo que a su vez reducirá tu progresión ya que tendrás que invertir dinero en nuevas piezas.
+          1. Empiezas desde 0, con el coche de tu padre, el cual está listo para competir aunque tiene muy pocas mejoras, según vas ganando dinero vas adquiriendo la capacidad de comprar piezas que tu mismo has de montar, a su vez, empiezas con herramientas básicas, lo cual te limitará un montón ya que no podrás realizar todas las puestas a punto tu, sino que tendrás que ir a un taller especializado( Reglajes, mapas de motor.....). En cuanto tienes algo de dinero ahorrado podrás optar a comprar un coche mejor, el cual te permitirá desbloquear nuevas competiciones de una clase superior, a su vez, has de cuidar tu coche ya que si no realizas los mantenimientos cuando toque ( En las primeras fases tendrás una alerta; luego, dispondrás de un manual de mantenimiento de cada vehículo), corres el riesgo de romperlo, lo que a su vez ralentizará tu progresión, ya que tendrás que invertir dinero en nuevas piezas.
           2. También irás ganando reputación de piloto, cuanto más limpio seas, mejor ratio tendrás es decir, en carreras más altas podrás participar, con esto queremos evitar el que una persona de dedique a ganar dinero de forma exponencial por lo que sea y se meta a correr con coches más complicados (GT3) por ejemplo y manche la experiencia del resto de usuarios
-          3. A su vez, las carreras online dañaran tu coche pero para evitar que otros jugadores te lo destrocen a propósito, te serán entregadas piezas para sustituir totalmente gratis al finalizar la carrera si los daños han sido por colisión contra otro jugador. 
+          3. A su vez, las carreras online dañarán tu coche, pero para evitar que otros jugadores te lo destrocen a propósito, recibirás piezas de reemplazo gratuitas al finalizar la carrera si los daños han sido por colisión con otro jugador. 
        2. Objectives
-          1. El objetivo principal es llegar a ser piloto profesional en la cumbre del deporte, es decir F1, cuando llegues a ese nivel ya no te comprarás tus coches sino que tendrás que demostrar tu talento ante los equipos (Será realmente difícil) o bien  pagar por tu asiento. 
+          1. El objetivo principal es llegar a ser piloto profesional en la cumbre del deporte, es decir, en la F1. Cuando alcances ese nivel, ya no comprarás tus coches, sino que tendrás que demostrar tu talento ante los equipos (será realmente difícil) o bien pagar por tu asiento. 
           2. Objetivo secundario, llegar a la cima de la tabla de los tiempos online en las distints categorias.
           3. Convertirte en todo un maestro en la arte de la optimización de vehículos de competición
        3. Mission Structure
