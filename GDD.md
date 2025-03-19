@@ -125,6 +125,7 @@
 
 ### 2. Actions, Interaction and Communication
    1. Tendrás una serie de personajes **NPC** los cuales te otorgarán consejos de cómo mejorar. Algunos te analizarán el coche y te dirán: "Oye, ¿por qué no le cambias esto y esto que te dará 20km/h más en recta?" y otros simplemente te quitarán algo de tiempo.
+   2. Configuración del coche 
 
 ### 3. Combat
    1. Como mucho, el hecho de realizar un **"chapa chapa"** en una competición de **Nascar**.
