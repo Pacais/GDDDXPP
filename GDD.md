@@ -125,7 +125,8 @@
 
 ### 2. Actions, Interaction and Communication
    1. Tendrás una serie de personajes **NPC** los cuales te otorgarán consejos de cómo mejorar. Algunos te analizarán el coche y te dirán: "Oye, ¿por qué no le cambias esto y esto que te dará 20km/h más en recta?" y otros simplemente te quitarán algo de tiempo.
-   2. Configuración del coche ![Diagrama de Toe, Camber y Suspensión](https://github.com/Pacais/GDDDXPP/raw/main/Images/DALL%C2%B7E%202025-03-19%2019.01.41%20-%20A%20schematic%20diagram%20explaining%20the%20concepts%20of%20toe%2C%20camber%2C%20and%20suspension%20height%20in%20car%20setup.%20The%20diagram%20includes%20three%20sections___1.%20Toe_%20Shows%20a%20.webp) 
+   2. Configuración del coche, se podrán modificar absolutamente todos los parámetros habidos y por haber a la hora de realizar un setup ![Diagrama de Toe, Camber y Suspensión](https://github.com/Pacais/GDDDXPP/raw/main/Images/DALL%C2%B7E%202025-03-19%2019.01.41%20-%20A%20schematic%20diagram%20explaining%20the%20concepts%20of%20toe%2C%20camber%2C%20and%20suspension%20height%20in%20car%20setup.%20The%20diagram%20includes%20three%20sections___1.%20Toe_%20Shows%20a%20.webp) 
+   
 
 
 ### 3. Combat
